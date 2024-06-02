@@ -2,6 +2,8 @@
 
 1. main.py scraps music events from a webpage, stores it in a text file, and finally sends an email notification.
 2. main_2.py similar scraps temperature readings from a webapge, stores in a txt file and plots a chart using streamlit 
+3. main_3_db.py similar to main.py but stores the data in a database using SQLite through "data.db" stored in the project repo
+4. main_4_db.py similar to main_2.py but rather stores data in a database using SQLite through "data.db" stored in the project repo
 
 developed to scrape music event data from a webpage
 
